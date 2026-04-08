@@ -1,5 +1,5 @@
 #monkey patching
-#changing the behaviour of the class by other class is monkey patching
+#changing the behaviour of the module or class by new function is monkey patching
 
 class A:
     def display(self):
