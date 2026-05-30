@@ -12,7 +12,6 @@ class A:
         self.name = n
         self.age = a 
     
-    @staticmethod
     def add(a,b):
         print(a+b)
         print(A.class_variable)
